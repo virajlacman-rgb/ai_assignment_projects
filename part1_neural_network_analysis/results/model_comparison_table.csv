@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Epochs,Accuracy
+Exp 1,1,10,0.85
+Exp 2,2,20,0.89
+Exp 3,3,30,0.91
